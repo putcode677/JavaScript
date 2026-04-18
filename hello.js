@@ -1,5 +1,6 @@
 var a= 5;
 var b= 30;
-var c = a+b;
+var d = 49
+var c = a+b+d;
 
 console.log(c)
